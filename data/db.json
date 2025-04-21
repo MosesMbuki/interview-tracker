@@ -17,6 +17,168 @@
       "resources": ["Cracking the Coding Interview"],
       "applied_date": "2025-03-10",
       "is_followed_up": false
+    },
+    {
+      "id": 3,
+      "company": "Microsoft",
+      "role": "Backend Developer",
+      "status": "Technical Test",
+      "resources": ["HackerRank", "Design Patterns"],
+      "applied_date": "2025-03-18",
+      "is_followed_up": true
+    },
+    {
+      "id": 4,
+      "company": "Amazon",
+      "role": "DevOps Engineer",
+      "status": "Rejected",
+      "resources": ["AWS Certification", "Kubernetes docs"],
+      "applied_date": "2025-02-28",
+      "is_followed_up": false
+    },
+    {
+      "id": 5,
+      "company": "Netflix",
+      "role": "UI/UX Designer",
+      "status": "Offer Received",
+      "resources": ["Figma", "Design Portfolio"],
+      "applied_date": "2025-03-01",
+      "is_followed_up": true
+    },
+    {
+      "id": 6,
+      "company": "Meta",
+      "role": "Product Manager",
+      "status": "Phone Screen",
+      "resources": ["Case Interviews", "Product Metrics"],
+      "applied_date": "2025-03-20",
+      "is_followed_up": false
+    },
+    {
+      "id": 7,
+      "company": "Apple",
+      "role": "iOS Developer",
+      "status": "Applied",
+      "resources": ["SwiftUI", "WWDC videos"],
+      "applied_date": "2025-03-12",
+      "is_followed_up": true
+    },
+    {
+      "id": 8,
+      "company": "Tesla",
+      "role": "Embedded Systems Engineer",
+      "status": "Code Review",
+      "resources": ["C++ Best Practices", "RTOS"],
+      "applied_date": "2025-03-05",
+      "is_followed_up": false
+    },
+    {
+      "id": 9,
+      "company": "Spotify",
+      "role": "Data Scientist",
+      "status": "Take-home Assignment",
+      "resources": ["Kaggle", "ML Papers"],
+      "applied_date": "2025-03-22",
+      "is_followed_up": true
+    },
+    {
+      "id": 10,
+      "company": "Airbnb",
+      "role": "Full Stack Developer",
+      "status": "Final Round",
+      "resources": ["React", "Node.js"],
+      "applied_date": "2025-03-08",
+      "is_followed_up": false
+    },
+    {
+      "id": 11,
+      "company": "Uber",
+      "role": "Machine Learning Engineer",
+      "status": "Applied",
+      "resources": ["TensorFlow", "PyTorch"],
+      "applied_date": "2025-03-25",
+      "is_followed_up": true
+    },
+    {
+      "id": 12,
+      "company": "LinkedIn",
+      "role": "Technical Recruiter",
+      "status": "Interview Scheduled",
+      "resources": ["HR Handbook", "Interview Questions"],
+      "applied_date": "2025-03-14",
+      "is_followed_up": false
+    },
+    {
+      "id": 13,
+      "company": "Twitter",
+      "role": "Security Engineer",
+      "status": "Background Check",
+      "resources": ["CTF Challenges", "Security Certifications"],
+      "applied_date": "2025-02-20",
+      "is_followed_up": true
+    },
+    {
+      "id": 14,
+      "company": "Salesforce",
+      "role": "CRM Consultant",
+      "status": "Offer Negotiation",
+      "resources": ["Trailhead", "Sales Docs"],
+      "applied_date": "2025-03-03",
+      "is_followed_up": false
+    },
+    {
+      "id": 15,
+      "company": "IBM",
+      "role": "Quantum Computing Researcher",
+      "status": "Research Presentation",
+      "resources": ["Qiskit", "Quantum Papers"],
+      "applied_date": "2025-03-17",
+      "is_followed_up": true
+    },
+    {
+      "id": 16,
+      "company": "Intel",
+      "role": "Hardware Engineer",
+      "status": "Design Challenge",
+      "resources": ["Verilog", "Computer Architecture"],
+      "applied_date": "2025-03-09",
+      "is_followed_up": false
+    },
+    {
+      "id": 17,
+      "company": "Nvidia",
+      "role": "GPU Architect",
+      "status": "Applied",
+      "resources": ["CUDA", "Graphics Programming"],
+      "applied_date": "2025-03-24",
+      "is_followed_up": true
+    },
+    {
+      "id": 18,
+      "company": "Adobe",
+      "role": "Creative Technologist",
+      "status": "Portfolio Review",
+      "resources": ["Creative Cloud", "Design Thinking"],
+      "applied_date": "2025-03-07",
+      "is_followed_up": false
+    },
+    {
+      "id": 19,
+      "company": "Oracle",
+      "role": "Database Administrator",
+      "status": "SQL Test",
+      "resources": ["Oracle Docs", "Database Design"],
+      "applied_date": "2025-03-19",
+      "is_followed_up": true
+    },
+    {
+      "id": 20,
+      "company": "SpaceX",
+      "role": "Avionics Software Engineer",
+      "status": "Final Interview",
+      "resources": ["Embedded C", "Aerospace Standards"],
+      "applied_date": "2025-03-11",
+      "is_followed_up": false
     }
   ]
 }
