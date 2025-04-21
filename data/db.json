@@ -1,0 +1,22 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "company": "Andela",
+      "role": "Frontend Developer",
+      "status": "Interviewed",
+      "resources": ["LeetCode", "System Design videos"],
+      "applied_date": "2025-03-15",
+      "is_followed_up": true
+    },
+    {
+      "id": 2,
+      "company": "Google",
+      "role": "Software Engineer",
+      "status": "Applied",
+      "resources": ["Cracking the Coding Interview"],
+      "applied_date": "2025-03-10",
+      "is_followed_up": false
+    }
+  ]
+}
