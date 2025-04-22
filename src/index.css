@@ -1,11 +1,5 @@
 @import "tailwindcss";
 
-body {
-  font-family: 'Inter', sans-serif;
-  align-items: center;
-}
-
-/* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -23,4 +17,4 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
-}
+} 
