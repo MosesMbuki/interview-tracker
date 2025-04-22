@@ -10,22 +10,35 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^7.0.2",
+    "@mui/x-charts": "^8.0.0-beta.3",
+    "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/vite": "^4.1.4",
+    "axios": "^1.8.4",
+    "chart.js": "^4.4.9",
     "json-server": "^1.0.0-beta.3",
+    "ldrs": "^1.1.6",
     "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
     "react-dom": "^19.0.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-toastify": "^11.0.5",
     "sweetalert2": "^11.19.1",
-    "tailwindcss": "^4.1.4"
+    "tailwindcss": "^4.1.4",
+    "toastify-react-native": "^7.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
-    "@types/react": "^19.0.10",
-    "@types/react-dom": "^19.0.4",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
     "@vitejs/plugin-react": "^4.3.4",
     "eslint": "^9.22.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
+    "react-router-dom": "^7.5.1",
     "vite": "^6.3.1"
   }
 }
