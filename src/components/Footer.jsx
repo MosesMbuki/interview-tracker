@@ -1,10 +1,10 @@
 import React from 'react'
 
 
-function Footer() {
+const Footer = () => {
   
     return (
-    <footer className="bg-indigo-600 text-white p-4 mt-5">
+    <footer className="bg-indigo-600 text-white p-4 mt-5 width=device-width, initial-scale=1.0">
       <div className="container mx-auto">
             <div className="flex flex-col md:flex-row justify-between items-center">
                 <div className="mb-4 md:mb-0">
