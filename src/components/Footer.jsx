@@ -8,7 +8,7 @@ function Footer() {
       <div className="container mx-auto">
             <div className="flex flex-col md:flex-row justify-between items-center">
                 <div className="mb-4 md:mb-0">
-                    <img src='public/job-seeker.png' className='h-30 inline-block' />
+                    <img src='https://i.postimg.cc/y8JLxcQ1/job-seeker.png' className='h-30 inline-block' />
                     <h3 className="text-xl font-bold">  InterviewPrep </h3>
                     <p className="text-white inline-block">Your career tracking companion</p>
             </div>
