@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="bg-indigo-600 text-white shadow-lg" >
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold">
-          <img src="https://i.postimg.cc/Y0S9RYdv/round.png" alt="Logo" className="h-7 w-7 inline-block mr-2 " />
+          <img src="public/job-seeker.png" alt="Logo" className="h-9 w-9 inline-block mr-2 " />
           Job Quest
         </Link>
         <div className="space-x-4">

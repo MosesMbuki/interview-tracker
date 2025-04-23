@@ -7,6 +7,7 @@ import Companies from './pages/Companies';
 import AddCompany from './pages/AddCompany';
 import CompanyCard from './components/CompanyCard';
 import EditCompany from './components/EditCompany';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -18,11 +19,12 @@ function App() {
             <Route path="/" element={<Dashboard />} />
             <Route path="/companies" element={<Companies />} />
             <Route path="/add-company" element={<AddCompany />} />
-            <Route path="/edit-company/:id" element={<EditCompany/>} />            
+            <Route path="/edit-company/:id" element={<EditCompany />} />   
           </Routes>
         </div>
         <ToastContainer position="bottom-right" />
       </div>
+      <Footer />
     </Router>
   );
 }
