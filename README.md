@@ -1,12 +1,46 @@
-# React + Vite
+# JobQuest 
+A simple yet powerful Job application Tracker built with React + Vite and a mock backend using render Server. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Features ✨
+A user can;
+    ✅ Add Companies one has applied to.
+    ✅ Delete Job Applications
+    ✅ Get a statistical view of the job seeking venture (charts and stats on the dashboard)
+    ✅ Update Application status
 
-Currently, two official plugins are available:
+Frontend	React, Vite, Tailwind CSS
+Mock Backend	JSON Server (db.json)
+Deployment	Vercel (Frontend), Render (Backend)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run Locally 🚀
 
-## Expanding the ESLint configuration
+1. Fork and Clone the Repository
+cd expense-tracker
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. Install Dependencies
+{npm install}
+
+4. Start the Mock Backend (JSON Server)
+Runs on https://interview-tracker-e6tf.onrender.com
+
+5. Start the React App
+{npm run dev}
+
+### How It Works 🔧
+# Adding an Job Application
+
+Fill the form → Submit → Saved in db.json.
+
+### Deleting an Job Application
+
+Click Delete → Removes from db.json.
+
+
+License 📜
+Copyright <2025> <Moses M. Mutitu>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
